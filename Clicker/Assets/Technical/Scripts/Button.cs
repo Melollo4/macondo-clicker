@@ -6,6 +6,10 @@ public class Button : MonoBehaviour
 
     // just for keeping track of basic UI buttons
 
+    // why is this still not working??
+    // do i have to write more lines of code??
+    // maybe even more??
+    // ?????????????
 
     // for keeping track of what button is what and possibly having another script reading methods sending them the buttonName
     public string buttonName;
