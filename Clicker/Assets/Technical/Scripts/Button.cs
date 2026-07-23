@@ -10,6 +10,7 @@ public class Button : MonoBehaviour
     // do i have to write more lines of code??
     // maybe even more??
     // ?????????????
+    // please last line?
 
     // for keeping track of what button is what and possibly having another script reading methods sending them the buttonName
     public string buttonName;
